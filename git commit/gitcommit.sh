@@ -1,4 +1,5 @@
 #!/bin/bash
+#git commit 提交脚本
 
 ## 到项目跟目录执行该脚本
 ST_COMMIT_MSG=".stCommitMsg"
